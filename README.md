@@ -1,1 +1,3 @@
-# Studi-Kasus-3-Otomatisasi-Analisis-Spasial-Aset-Kota
+# Carrier and Competition in Industrial Era with GIS: Studi Kasus Otomatisasi Analisis Spasial Aset Kota
+Deskripsi Singkat
+Studi kasus ini diangkat dari materi Informatics Practitioner Lecture Series 2026 dengan judul "Carrier and Competition in Industrial Era with GIS". Materi tersebut menekankan bahwa lulusan Teknik Informatika memiliki keunggulan kompetitif (one step ahead) untuk menjadi GIS Developer yang tidak hanya menggunakan perangkat lunak, tetapi juga mampu membangun skrip otomatisasi sendiri. Studi kasus ini mengimplementasikan peran tersebut dalam manajemen aset perkotaan (smart cities) menggunakan Python.
